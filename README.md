@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TzuWei (Uier). </h1>
+<h1 align="center">Hi 👋, I'm TzuWei (uier). </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uier&label=Profile%20views&color=0e75b6&style=flat" alt="uier" /> </p>
 
