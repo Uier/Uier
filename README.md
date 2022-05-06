@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uier&show_icons=true&locale=en" alt="uier" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uier&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uier&theme=default)
