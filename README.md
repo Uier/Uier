@@ -3,19 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uier&label=Profile%20views&color=0e75b6&style=flat" alt="uier" /> </p>
 
 - 🌱 I’m currently studying for a master's degree in CS at NYCU, and previously studied in CS at NTNU.
-- ❤️ Front-end Development & Data Visualization.
+- ❤️ Front-end Development, Data Visualization, UI/UX.
 - 👨‍💻 One of the maintainers of [Normal-OJ](https://github.com/Normal-OJ/Normal-OJ) & [pyShare](https://gitlab.com/pyshare/pyshare).
-- 📫 How to reach me: **ap9940506@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/tnuier" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fb.com/tnuier" height="30" width="40" />
-  </a>
-  <a href="https://t.me/TzuWei" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="t.me/TzuWei" height="30" width="40" />
-  </a>
-</p>
+- 📫 How to reach me: [ap9940506@gmail.com](mailto:ap9940506@gmail.com) or [Telegram](https://t.me/TzuWei)
 
 <h3 align="left">Languages and Tools I mainly used:</h3>
 <p align="left"> 
